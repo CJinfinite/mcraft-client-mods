@@ -23,6 +23,12 @@
             "version": "0.0.1",
             "stylesGlobal": true,
             "description": "Add blur to backdrops like in new Minecraft"
+        },
+        {
+            "name": "terrafirmacraft",
+            "version": "0.0.1",
+            "": true,
+            "description": "as survival should be"
         }
     ]
 }
