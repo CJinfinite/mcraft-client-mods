@@ -27,7 +27,7 @@
         {
             "name": "terrafirmacraft",
             "version": "0.0.1",
-            "scriptMainUnstable": true,
+            "terrafirmacraft": true,
             "description": "as survival should be"
         }
     ]
